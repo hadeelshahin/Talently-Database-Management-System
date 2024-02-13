@@ -1,5 +1,5 @@
 "# Talently-Database-Management-System" 
-![Screenshot (47)](https://github.com/hadeelshahin/Talently-Database-Management-System/assets/106568841/71654b05-6146-455a-9b83-2cef37e211a3)
+
 **Project Summary: Talently Database Management System**
 
 Talently is a MySQL-based relational database management system project aimed at effectively managing user, company, and conversation data. Focused primarily on SQL data definition language (DDL), the project emphasizes the creation and alteration of tables, alongside the implementation of various constraints and data integrity measures.
